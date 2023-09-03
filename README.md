@@ -1,10 +1,11 @@
 # Proyecto_Embebidos_MonitoreoH2O
 Sistema de Monitoreo de agua potable en hogares, usando sensores de TDS y Turbidez
+
 ESCUELA SUPERIOR POLITECNICA DEL LITORAL
+
 Facultad de Ingeniería Eléctrica y Computación
   
-
-![1200px-ESPOL_-_Logo_BN_002 svg](https://github.com/JordanyPonce/Proyecto_Embebidos_MonitoreoH2O/assets/123854184/cdbc515c-933e-4fdf-8ca4-c803e41d32bb)
+![ESPOL_-_Logo_BN_002 svg](https://github.com/JordanyPonce/Proyecto_Embebidos_MonitoreoH2O/assets/123854184/44d810e6-da75-4228-983c-f6f712c44bba)
 
 Sistemas Embebidos
 
