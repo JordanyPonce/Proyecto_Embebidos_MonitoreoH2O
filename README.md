@@ -2,8 +2,11 @@
 Sistema de Monitoreo de agua potable en hogares, usando sensores de TDS y Turbidez
 ESCUELA SUPERIOR POLITECNICA DEL LITORAL
 Facultad de Ingeniería Eléctrica y Computación
- 
+  
+
+![image](https://github.com/JordanyPonce/Proyecto_Embebidos_MonitoreoH2O/assets/123854184/aae888b0-6d54-4452-a647-2fab706af252)
 Sistemas Embebidos
+
 Paralelo: 103
 
 Informe Final
@@ -11,6 +14,7 @@ Informe Final
 Sistema de Monitoreo de agua potable en hogares
 
 Presentado por:
+
 Darin Castro Sanchez
 
 Jordany Ponce Matute
