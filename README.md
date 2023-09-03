@@ -7,10 +7,12 @@ Sistemas Embebidos
 Paralelo: 103
 
 Informe Final
+
 Sistema de Monitoreo de agua potable en hogares
 
 Presentado por:
-Darin Castro Sanchez\n
+Darin Castro Sanchez
+
 Jordany Ponce Matute
 
 Profesor:
