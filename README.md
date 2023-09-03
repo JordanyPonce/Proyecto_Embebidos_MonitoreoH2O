@@ -10,7 +10,7 @@ Informe Final
 Sistema de Monitoreo de agua potable en hogares
 
 Presentado por:
-Darin Castro Sanchez
+Darin Castro Sanchez\n
 Jordany Ponce Matute
 
 Profesor:
