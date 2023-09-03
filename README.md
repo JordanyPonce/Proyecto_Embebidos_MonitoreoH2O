@@ -4,7 +4,8 @@ ESCUELA SUPERIOR POLITECNICA DEL LITORAL
 Facultad de Ingeniería Eléctrica y Computación
   
 
-![image](https://github.com/JordanyPonce/Proyecto_Embebidos_MonitoreoH2O/assets/123854184/aae888b0-6d54-4452-a647-2fab706af252)
+![1200px-ESPOL_-_Logo_BN_002 svg](https://github.com/JordanyPonce/Proyecto_Embebidos_MonitoreoH2O/assets/123854184/cdbc515c-933e-4fdf-8ca4-c803e41d32bb)
+
 Sistemas Embebidos
 
 Paralelo: 103
